@@ -47,3 +47,11 @@ https://www.ipeadata.gov.br/
 
 # Criação da interface do Dashboard no Streamlit 
 
+- arquivo `app.py`
+- comando local `streamlit run app.py`
+
+# Publicação no site Streamlit
+- Atualizar os arquivos no github
+- Criar uma conta no site https://streamlit.io/
+- Criar app vinculando ao repositório e ao arquivo `app.py`
+
