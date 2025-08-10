@@ -17,9 +17,10 @@ Dashboard interativo em Python para análise de indicadores econômicos brasilei
 ```
 data/ # Dados originais em CSV
 notebooks/ # Jupyter Notebooks para análise e limpeza
+notebooks/dados_normalizados.parquet # Base tratada para uso no Dashboard
 app.py # Aplicação Streamlit
 requirements.txt # Dependências do projeto
-dados_normalizados.parquet # Base tratada para uso no Dashboard
+
 ```
 ---
 
