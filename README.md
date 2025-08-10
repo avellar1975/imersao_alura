@@ -54,4 +54,5 @@ https://www.ipeadata.gov.br/
 - Atualizar os arquivos no github
 - Criar uma conta no site https://streamlit.io/
 - Criar app vinculando ao repositório e ao arquivo `app.py`
+- Meu exemplo foi publicado em https://imersao-alura-indicadores.streamlit.app/
 

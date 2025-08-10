@@ -76,3 +76,15 @@ st.write(df_long.groupby("Indicador")["Valor"].describe())
 # --- Dados filtrados ---
 with st.expander("Ver dados filtrados"):
     st.dataframe(df_long)
+
+
+# --- Rodapé ---]
+st.markdown(
+    """
+    <hr>
+    <div style="text-align: center; font-size: 14px; color: gray;">
+        Desenvolvido por <b>Evandro Avellar</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
